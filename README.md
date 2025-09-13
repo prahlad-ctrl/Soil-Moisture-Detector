@@ -28,7 +28,7 @@ An **IoT + Machine Learning project** that detects soil conditions (`Dry`, `Opti
 ---
 
 ## ⚡ Circuit Diagram
-![Wiring Diagram](img\SoilMoistureConnection.png)
+![Wiring Diagram](img/SoilMoistureConnection.png)
 
 ---
 
